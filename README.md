@@ -1,2 +1,2 @@
-# authentication
+# Authentication
 Simple authentication program
